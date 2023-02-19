@@ -10,6 +10,9 @@ multiple machine learning models.
 ``` 
 pip install imblearn
 pip instal scikit-learn
+pip install xgboost
+pip install pandas
+pip numpy
 ```
 
 ## Running the code
