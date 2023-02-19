@@ -12,7 +12,7 @@ pip install imblearn
 pip instal scikit-learn
 pip install xgboost
 pip install pandas
-pip numpy
+pip install numpy
 ```
 
 ## Running the code
