@@ -9,7 +9,7 @@ multiple machine learning models.
 ## Requirements
 ``` 
 pip install imblearn
-pip instal scikit-learn
+pip install scikit-learn
 pip install xgboost
 pip install pandas
 pip install numpy
